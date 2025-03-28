@@ -13,12 +13,12 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Africa/Cairo
+timezone: 	Asia/Ho_Chi_Minh
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ahmed Tremo # the main title
+title: Minh # the main title
 
 tagline: ML enthusiast # it will display as the sub-title
 
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://minhcato.github.io"
 
 github:
-  username: ahmedtremo # change to your github username
+  username: tranminhnguyen11 # change to your github username
 
 twitter:
   username: tremooo # change to your twitter username
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/personal/ahmedtremo.jpg
+avatar: 
 
 # boolean type, the global switch for TOC in posts.
 toc: true
